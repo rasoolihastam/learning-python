@@ -1,2 +1,3 @@
 # learning-python
-my python learning journey
+Hi, I'm Rasooli from Qeshm.
+I'm learning Python step by step.
